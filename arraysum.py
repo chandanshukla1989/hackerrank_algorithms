@@ -92,15 +92,3 @@ def concat_arr1(A):
         i+=1
     arr.append(str1)
     return arr
- 
-    
-    
-
-
-    
-    
-    
-    
-    
-            
-    gi
