@@ -1,4 +1,4 @@
- import time
+import time
 
 def solution(A,count,sum):
     j=1
