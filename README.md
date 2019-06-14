@@ -1,4 +1,4 @@
-This problem is one of hackerranks problem in which we are getting stream of array datasets like this: 
+This is a recursive problem and one of hackerranks challenges in which we are getting stream of array datasets like this: 
 ([1,67,5,4,60],3,632)
 The output is one array, and should be derived from input array in such a way that array's length should be equal second argument(3) and 
 sum of array elements should be equal to third argument(632)
